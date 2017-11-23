@@ -20,6 +20,8 @@
 	* Work with a real company
 
 * Mandatory Assignment
+* Hvad kan i om et halvt år 
+  * [StudentsAdministartion]()
 
 ## Download and Install JDK and IntelliJ Ultimate  
 
