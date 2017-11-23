@@ -11,13 +11,13 @@
   * inheritance 
   * polymorphism
   * …
-* [Fitness Repetiton Exercise](https://github.com/StudentsAdministration/01_fitness_repetition_exercise)
 * Studieordning gennemgang    
 * Exam & Project period
 * Mandatory Assignment
 * Hvad kan i om et halvt år 
   * [StudentsAdministartion](https://github.com/StudentsAdministration/studentsadministration)
 * Installer IntelliJ (Ny IDE)
+* [Fitness Repetiton Exercise](https://github.com/StudentsAdministration/01_fitness_repetition_exercise)
 
 ## Download and Install JDK and IntelliJ Ultimate  
 
