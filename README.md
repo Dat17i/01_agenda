@@ -2,11 +2,15 @@
 ## Agenda:
 * What should you know by now (1st semester stuff): 
   * Classes
-    * methods
     * attributes
+    * methods
     * return values 
+  * Objects
+    * new
+  
   * inheritance 
-  * polymorphism,…
+  * polymorphism
+  * …
 
 * Brush-up Project: Fitness Exercise
 
