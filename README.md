@@ -1,14 +1,13 @@
 # Introduktion til 2<sup>nd</sup> Semester SWC
 ## Agenda:
-* What should you know by now (1st semester stuff): 
+* What should you know by now (1st semester stuff):
   * Classes
     * attributes
     * methods
-    * return values 
+    * return values
   * Objects
     * new
-  
-  * inheritance 
+  * inheritance
   * polymorphism
   * …
 * Studieordning gennemgang    
