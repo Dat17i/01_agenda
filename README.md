@@ -21,20 +21,20 @@
 
 * Mandatory Assignment
 
+## Download and Install JDK and IntelliJ Ultimate  
 
-
-## Links
-###Opdater JDK    
+### First update your Java JDK (make sure you have version 1.xx)  
 
 * [jdk download](http://www.java.oracle.com)
 
-### Download og Installer IntelliJ Ultimate    
-
+### Install IntelliJ Ultimate 
 * [IntelliJ](https://www.jetbrains.com/estore/students/)
 	1. Opret bruger (med kea email)
 	2. Download og installér IntelliJ 
 	3. Når programmet startes første gang, vælg da mulighed “1” som er at logge på serveren. Dvs. du behøver ingen licens her.
 
+
+# IntelliJ Tutorial
 
 * [IntelliJ IDEA Community Edition Essential Training](https://www.lynda.com/Java-tutorials/Welcome/486759/606148-4.html)
 
