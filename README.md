@@ -34,7 +34,7 @@
 	3. Når programmet startes første gang, vælg da mulighed “1” som er at logge på serveren. Dvs. du behøver ingen licens her.
 
 
-# IntelliJ Tutorial
+## IntelliJ Tutorial
 
 * [IntelliJ IDEA Community Edition Essential Training](https://www.lynda.com/Java-tutorials/Welcome/486759/606148-4.html)
 
