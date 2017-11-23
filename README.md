@@ -38,3 +38,8 @@
 
 * [IntelliJ IDEA Community Edition Essential Training](https://www.lynda.com/Java-tutorials/Welcome/486759/606148-4.html)
 
+## Exercises
+
+* [Fitness Repetiton Exercise](https://github.com/StudentsAdministration/01_fitness_repetition_exercise)
+
+
