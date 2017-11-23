@@ -1,12 +1,12 @@
 # Introduktion til 2<sup>nd</sup> Semester SWC
 ## Agenda:
 * What should you know by now (1st semester stuff): 
-	* Classes
-    		* methods
-    		* attributes
-    		* return values 
-   	* inheritance 
-   	* polymorphism,…
+  * Classes
+    * methods
+    * attributes
+    * return values 
+  * inheritance 
+  * polymorphism,…
 
 * Brush-up Project: Fitness Exercise
 
