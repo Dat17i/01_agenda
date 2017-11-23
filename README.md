@@ -12,7 +12,7 @@
   * polymorphism
   * …
 
-* Brush-up Project: Fitness Exercise
+* [Fitness Repetiton Exercise](https://github.com/StudentsAdministration/01_fitness_repetition_exercise)
 
 * Studieordning gennemgang    
 
