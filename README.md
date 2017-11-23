@@ -2,19 +2,20 @@
 ## Agenda:
 * What should you know by now (1st semester stuff): 
 	* Classes
-    * methods
-    * attributes
-    * return values 
-   * inheritance 
-   * polymorphism,…
+    		* methods
+    		* attributes
+    		* return values 
+   	* inheritance 
+   	* polymorphism,…
 
-Brush-up Project: Fitness Exercise
+* Brush-up Project: Fitness Exercise
 
-Studieordning gennemgang    
+* Studieordning gennemgang    
 
-Eksamen
+* Exam & Project period
+	* Work with a real company
 
-Mandatory
+* Mandatory Assignment
 
 
 
