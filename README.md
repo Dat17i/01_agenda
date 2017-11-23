@@ -21,7 +21,7 @@
 
 * Mandatory Assignment
 * Hvad kan i om et halvt år 
-  * [StudentsAdministartion]()
+  * [StudentsAdministartion](https://github.com/StudentsAdministration/studentsadministration)
 
 ## Download and Install JDK and IntelliJ Ultimate  
 
