@@ -14,7 +14,7 @@
 * Exam & Project period
 * Mandatory Assignment
 * Hvad kan i om et halvt år 
-  * [StudentsAdministartion](https://github.com/StudentsAdministration/studentsadministration)
+  * [StudentsAdministration](https://github.com/StudentsAdministration/studentsadministration)
 * Installer IntelliJ (Ny IDE)
 * [Fitness Repetiton Exercise](https://github.com/StudentsAdministration/01_fitness_repetition_exercise)
 
