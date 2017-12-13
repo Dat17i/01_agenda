@@ -40,3 +40,5 @@
 * [Fitness Repetiton Exercise](https://github.com/StudentsAdministration/01_fitness_repetition_exercise)
 
 
+
+_<div align="right">&copy; clbo@kea.dk</div>_
