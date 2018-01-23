@@ -10,13 +10,13 @@
   * inheritance
   * polymorphism
   * …
-* Studieordning gennemgang    
+* Curriculum    
 * Exam & Project period
 * Mandatory Assignment
-* Hvad kan i om et halvt år 
-  * [StudentsAdministration](https://github.com/StudentsAdministration/studentsadministration)
-* Installer IntelliJ (Ny IDE)
-* [Fitness Repetiton Exercise](https://github.com/StudentsAdministration/01_fitness_repetition_exercise)
+* What are you able to do in half a year 
+  * [StudentsAdministration](https://github.com/dat17i/studentsadministration)
+* Install IntelliJ
+* [Fitness Repetiton Exercise](https://github.com/dat17i/01_fitness_repetition_exercise)
 
 ## Download and Install JDK and IntelliJ Ultimate  
 
@@ -26,10 +26,9 @@
 
 ### Install IntelliJ Ultimate 
 * [IntelliJ](https://www.jetbrains.com/estore/students/)
-	1. Opret bruger (med kea email)
-	2. Download og installér IntelliJ 
-	3. Når programmet startes første gang, vælg da mulighed “1” som er at logge på serveren. Dvs. du behøver ingen licens her.
-
+	1. Create user (with your kea email)
+	2. Download and install IntelliJ 
+	3. When th program runs the first time choose option "1", which is to log on to the server (so no licence needed).
 
 ## IntelliJ Tutorial
 
@@ -37,7 +36,7 @@
 
 ## Exercises
 
-* [Fitness Repetiton Exercise](https://github.com/StudentsAdministration/01_fitness_repetition_exercise)
+* [Fitness Repetiton Exercise](https://github.com/dat17i/01_fitness_repetition_exercise)
 
 
 
