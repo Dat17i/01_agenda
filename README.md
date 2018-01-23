@@ -1,4 +1,4 @@
-# Introduction til 2<sup>nd</sup> Semester SWC
+# Introduction to 2<sup>nd</sup> Semester SWC
 ## Agenda:
 * What should you know by now (1st semester stuff):
   * Classes
