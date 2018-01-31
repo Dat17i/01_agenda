@@ -14,7 +14,10 @@
 * Exam & Project period
 * Mandatory Assignment
 * What are you able to do in half a year 
-  * [StudentsAdministration](https://github.com/dat17i/studentsadministration)
+  * [StudentsAdministration](https://github.com/Dat17i/studentsadministration)
+  	* Spring Framework
+	* Mysql Database
+	* Collection Framework (Lists)
 * Install IntelliJ
 * [Fitness Repetiton Exercise](https://github.com/dat17i/01_fitness_repetition_exercise)
 
