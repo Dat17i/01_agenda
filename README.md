@@ -20,7 +20,7 @@
 
 ## Download and Install JDK and IntelliJ Ultimate  
 
-### First update your Java JDK (make sure you have version 1.xx)  
+### First update your Java JDK (make sure you have version 9.0.4)  
 
 * [jdk download](http://www.java.oracle.com)
 
@@ -33,6 +33,10 @@
 ## IntelliJ Tutorial
 
 * [IntelliJ IDEA Community Edition Essential Training](https://www.lynda.com/Java-tutorials/Welcome/486759/606148-4.html)
+
+If you do not have a Lynda.com account, you should create one now by following these steps:
+
+* [Create a Lynda.com account](https://docs.google.com/document/d/1jgjZbYzhcBIXUGoovvZoUYfv38ArclxE8OW4d9yvZIc/pub)
 
 ## Exercises
 
